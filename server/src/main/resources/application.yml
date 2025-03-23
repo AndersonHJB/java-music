@@ -2,8 +2,8 @@
 server.port: 9100
 server.servlet.context-path: /api
 
-BASE_LOCATION: D:\aliyun_workspace\java_music
-DB_NAME: java_music
+BASE_LOCATION: /Users/huangjiabao/GitHub/Github_Repo/java-music
+DB_NAME: JavaMusic
 
 
 spring:
