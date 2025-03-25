@@ -8,10 +8,11 @@
 <img src="readme/image.png" style="zoom:25%;" />
 
 
-## 在线演示
+## 截图
 
-演示地址：[https://music.gitapp.cn](https://music.gitapp.cn)
+![](readme/image-1.png)
 
+![](readme/image-2.png)
 
 ## 源码下载
 
